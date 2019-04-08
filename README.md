@@ -11,4 +11,4 @@ Clubs monitored at this moment:
 
 You also can add your own club who plays on Brazilian Footbal League.
 
-Include a bot with some personalized commands like /datetime (/data) and /randonresult (/mamaemandou)
+Include a Telegram Bot with some personalized commands like /datetime (/data) and /randonresult (/mamaemandou)
